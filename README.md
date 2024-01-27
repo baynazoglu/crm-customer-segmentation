@@ -1,4 +1,5 @@
 # CRM-Market/Customer Segmentation
+<img src="https://github.com/baynazoglu/crm-customer-segmentation/blob/main/CRM.jpeg" alt="Image" width="700" height="400">
 
 ## Project Summary
 
